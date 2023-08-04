@@ -13,16 +13,6 @@ Each symbol has a different count in the machine, and each symbol also has a spe
 The player wins if they get the same symbol on a line. The payout is calculated based on the bet and the value of the symbol.
 The player can keep playing until they choose to quit or run out of funds.
 
-Instructions:
-
-Clone the repository to your local machine.
-
-Make sure you have Python 3 installed.
-
-Open a terminal or command prompt and navigate to the repository's directory.
-
-Run the main.py file using the following command:
-python main.py
 
 The game will prompt you to deposit money. Enter the amount you want to deposit (must be a positive integer).
 
